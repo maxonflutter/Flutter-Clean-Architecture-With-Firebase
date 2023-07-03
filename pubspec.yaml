@@ -1,0 +1,42 @@
+name: flutter_clean_architecture_with_firebase
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.12.0
+  firebase_auth: ^4.6.0
+  cloud_firestore: ^4.7.1
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.2
+  bloc_test: ^9.1.1
+  go_router: ^7.0.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  built_value: ^8.5.0
+  flex_seed_scheme: ^1.3.0
+  google_fonts: ^4.0.4
+  connectivity_plus: ^4.0.0
+  network_image_mock: ^2.1.1
+  uuid: ^3.0.7
+  intl: ^0.18.1
+  fpdart: ^0.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  mockito: ^5.4.0
+  build_runner: ^2.4.4
+  built_value_generator: ^8.5.0
+  hive_generator: ^2.0.0
+  
+flutter:
+  uses-material-design: true
