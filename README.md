@@ -6,9 +6,9 @@ This project demonstrates the use of advanced topics such as Clean Architecture,
 
 The full course expands further to include features like posting feeds, and a chat system.
 
-[Get the Course](https://www.atomsbox.com/courses/flutter-with-clean-architecture)
+[Get the Course](https://www.atomsbox.com/courses/e2acc5ee-06c3-4300-b3be-8e978bfc5195)
 
-[![App Screenshot](./screenshots/clean_architecture_course.png)](https://www.atomsbox.com/courses/flutter-with-clean-architecture)
+[![App Screenshot](./screenshots/clean_architecture_course.png)](https://www.atomsbox.com/courses/e2acc5ee-06c3-4300-b3be-8e978bfc5195)
 
 ## Structure
 
@@ -59,4 +59,4 @@ The application is built using various dependencies that aid in implementing its
 ## Full Course
 For the full feature set, including feed posting and real-time chat functionalities, consider purchasing the full course. The complete course will guide you in building a more extensive application, fostering a deeper understanding of Flutter, Firebase, and the principles of Clean Architecture.
 
-[Get the Course](https://www.atomsbox.com/courses/flutter-with-clean-architecture)
+[Get the Course](https://www.atomsbox.com/courses/e2acc5ee-06c3-4300-b3be-8e978bfc5195)
