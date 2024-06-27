@@ -1,12 +1,7 @@
 # Flutter Clean Architecture with Firebase
 
-Welcome to the free preview of the comprehensive Flutter social media application project, built using the clean architecture design pattern and Firebase as its backend. This preview includes the implementation of the user authentication module.
-
 This project demonstrates the use of advanced topics such as Clean Architecture, Firebase integration, Bloc pattern for state management, and Hive for local storage.
 
-The full course expands further to include features like posting feeds, and a chat system.
-
-[Get the Course](https://www.atomsbox.com/courses/e2acc5ee-06c3-4300-b3be-8e978bfc5195)
 
 [![App Screenshot](./screenshots/clean_architecture_course.png)](https://www.atomsbox.com/courses/e2acc5ee-06c3-4300-b3be-8e978bfc5195)
 
