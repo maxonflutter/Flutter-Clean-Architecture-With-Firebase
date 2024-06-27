@@ -47,8 +47,3 @@ The application is built using various dependencies that aid in implementing its
 - Google Fonts and Flex Color Scheme for UI styling.
 - Functional error handling with fpdart (not included in the preview)
 - And several other for testing and mocking.
-
-## Full Course
-For the full feature set, including feed posting and real-time chat functionalities, consider purchasing the full course. The complete course will guide you in building a more extensive application, fostering a deeper understanding of Flutter, Firebase, and the principles of Clean Architecture.
-
-[Get the Course](https://www.atomsbox.com/courses/e2acc5ee-06c3-4300-b3be-8e978bfc5195)
