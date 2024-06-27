@@ -2,9 +2,6 @@
 
 This project demonstrates the use of advanced topics such as Clean Architecture, Firebase integration, Bloc pattern for state management, and Hive for local storage.
 
-
-[![App Screenshot](./screenshots/clean_architecture_course.png)](https://www.atomsbox.com/courses/e2acc5ee-06c3-4300-b3be-8e978bfc5195)
-
 ## Structure
 
 The application follows the principles of Clean Architecture and is structured into three primary layers:
